@@ -28,7 +28,7 @@
 </p>
 
 <p>
-<img alt="Maxoud github stats" src="https://github-readme-stats.vercel.app/api?username=maxoud99)](https://github.com/maxoud99)">
+<img alt="Maxoud github stats" src="https://github-readme-stats.vercel.app/api?username=maxoud99">
 
-<img alt="Top Langs" src="[![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxoud99&layout=compact)](https://github.com/maxoud99">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxoud99&layout=compact">
 </p>
