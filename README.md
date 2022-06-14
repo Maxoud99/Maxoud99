@@ -1,7 +1,7 @@
 <p align="center">
 <img width= "600" height="200" src="https://user-images.githubusercontent.com/49459965/173596828-49ee239a-2798-4bd5-9766-2636ae5613fb.png">
 </p>
-----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
@@ -33,6 +33,7 @@
 
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxoud99&layout=compact">
 </p>
+-------------------------------------------------------------------------------------------------------------------
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohamed-abdelmaksoud99/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
